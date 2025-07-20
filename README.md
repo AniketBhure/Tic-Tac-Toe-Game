@@ -1,6 +1,7 @@
 Tic-Tac-Toe Game
 A simple, interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend in this classic 3x3 grid game!
 🎮 Game Preview
+
 <img width="481" height="400" alt="image" src="https://github.com/user-attachments/assets/ea1bcdb1-5222-4307-aeda-07132392f9ab" />
 
 ✨ Features
