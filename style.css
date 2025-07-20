@@ -1,0 +1,25 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+.cell {
+    display: grid;
+    grid-template-columns: repeat(3, 60px); /* 3 columns */
+    gap: 5px; /* small gap between buttons */
+    margin: 20px auto; /* center grid */
+    justify-content: center;
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+
+}
+
+.box:hover {
+    background-color: lightgray; /* change color on hover */
+}
